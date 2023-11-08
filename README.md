@@ -11,3 +11,10 @@
 ### Week_9.Shift Reduce Parser
 ### Week10.LALR Parser
 ### Week_11.Intermediate code generation
+
+
+## How to run a lex file ?
+### 1.Open CMD->Go to path where lex file is saved
+### 2.type lex lexfilename.l
+### 3.Then a lex.yy.c file will be created run that in VS Code
+### 4.Pass input if required
